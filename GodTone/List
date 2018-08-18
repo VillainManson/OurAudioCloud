@@ -2,13 +2,11 @@
   {
     "Title" : "穿過我的巴巴",
     "Description":"穿過我的巴巴的敘述......",
-    "FileName":"PassMyBaBa",
-    "AudioType" : "OGGVORBIS"
+    "FileName":"PassMyBaBa.ogg"
   },
   {
     "Title" : "穿過我的巴巴ssss",
     "Description":"穿過我的巴巴的敘述ssssss......",
-    "FileName":"PassMyBaBasssss",
-    "AudioType" : "OGGVORBIS"
+    "FileName":"PassMyBaBasssss"
   }
 ]
