@@ -1,7 +1,7 @@
 [
   {
     "Title" : "Carry ~ 太神啦",
-    "Description":"Carry ~ 太神啦　，　Carry ~ 太神啦",
+    "Description":"Carry ~ 太神啦 Carry ~ 太神啦",
     "FileName":"CarryTooGod.ogg"
   },
   {
@@ -11,12 +11,17 @@
   },
   {
     "Title" : "笑到你發寒",
-    "Description":"額哈哈哈哈哈哈哈哈哈哈哈~哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈~哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+    "Description":"額哈哈哈哈哈哈哈哈哈哈哈~哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈~哈哈哈哈哈哈哈哈哈哈哈哈哈哈~",
     "FileName":"GodLaugh.ogg"
   },
   {
     "Title" : "旋轉豬吼",
     "Description":"做出旋轉的手勢並大喊",
     "FileName":"RotatePigScream.ogg"
+  },
+  {
+    "Title" : "Diu~Diu~Diu",
+    "Description":"Diu~Diu~Diu~Diu~Diu~Diu~Diu~Diu~Diu",
+    "FileName":"DiuDiuDiu.ogg"
   }
 ]
