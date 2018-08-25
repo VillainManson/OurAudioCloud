@@ -1,10 +1,6 @@
 [
-{
-"Main":"128, 128, 128, 255",
-"Background":"128, 100, 100, 255"
-},
-{
-"Main":"255, 128, 50, 255",
-"Background":"50, 50, 50, 255"
-}
+"Main":"6D6466",
+"Background":"E3DBDB",
+"Forward":"FFFFFF",
+"Highlight":"4E3D42"
 ]
