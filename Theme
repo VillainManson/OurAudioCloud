@@ -1,6 +1,8 @@
 [
-"Main":"6D6466",
-"Background":"E3DBDB",
-"Forward":"FFFFFF",
-"Highlight":"4E3D42"
+{
+"Main" : "6D6466",
+"Background" : "E3DBDB",
+"Forward" : "FFFFFF",
+"Highlight" : "4E3D42"
+}
 ]
