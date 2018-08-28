@@ -1,8 +1,80 @@
 [
-{
-"Main" : "6D6466",
-"Background" : "E3DBDB",
-"Forward" : "FFFFFF",
-"Highlight" : "4E3D42"
-}
+  {
+    "Main": "6D6466",
+    "Background": "E3DBDB",
+    "Forward": "FFFFFF",
+    "Highlight": "4E3D42"
+  },
+  {
+    "Main": "7C3626",
+    "Background": "F5853F",
+    "Forward": "FFCDBC",
+    "Highlight": "2D080A"
+  },
+  {
+    "Main": "003459",
+    "Background": "007EA7",
+    "Forward": "8CE5E9",
+    "Highlight": "00171F"
+  },
+  {
+    "Main": "8C2F39",
+    "Background": "FCB9B2",
+    "Forward": "FED0BB",
+    "Highlight": "461220"
+  },
+  {
+    "Main": "CBD2D0",
+    "Background": "0B3C49",
+    "Forward": "731963",
+    "Highlight": "FFFDFD"
+  },
+  {
+    "Main": "A59E8C",
+    "Background": "4C5760",
+    "Forward": "66635B",
+    "Highlight": "D7CEB2"
+  },
+  {
+    "Main": "251351",
+    "Background": "7D2E68",
+    "Forward": "C97B84",
+    "Highlight": "040926"
+  },
+  {
+    "Main": "636940",
+    "Background": "59A96A",
+    "Forward": "9BDEAC",
+    "Highlight": "474A2C"
+  },
+  {
+    "Main": "FE5E41",
+    "Background": "3E505B",
+    "Forward": "F3C178",
+    "Highlight": "0B0500"
+  },
+  {
+    "Main": "E6AF2E",
+    "Background": "A3320B",
+    "Forward": "001514",
+    "Highlight": "ECCE8E"
+  },
+  {
+    "Main": "A78682",
+    "Background": "6F5060",
+    "Forward": "51344D",
+    "Highlight": "E7EBC5"
+  },
+  {
+    "Main": "575A5E",
+    "Background": "222823",
+    "Forward": "08090A",
+    "Highlight": "A7A2A9"
+  },
+  {
+    "Main": "5B7553",
+    "Background": "8EB897",
+    "Forward": "9DDBAD",
+    "Highlight": "040403"
+  }
 ]
