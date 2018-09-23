@@ -2,17 +2,22 @@
   {
     "Name" : "亞洲統神",
     "URL":"https://www.twitch.tv/asiagodtonegg3be0",
-    "Game" : "英雄聯盟",
+    "Game" : "實況主",
     "Folder" : "GodTone"
   },
   { "Name" : "光頭哥哥",
     "URL":"https://www.youtube.com/channel/UCbswWawAvarM-ngmpc779lA",
-    "Game" : "無",
+    "Game" : "Youtuber",
     "Folder" : "BaldBrother"
   },
   { "Name" : "陳平偉",
     "URL":"",
     "Game" : "富堡機車行",
     "Folder" : "PingWei"
+  },
+  { "Name" : "杰哥",
+    "URL":"https://www.youtube.com/channel/UCizhMTp9vKkpdcbqVLdDmdA",
+    "Game" : "Youtuber",
+    "Folder" : "JayBro"
   }
 ]
