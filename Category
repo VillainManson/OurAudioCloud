@@ -15,6 +15,11 @@
     "Game" : "Youtuber",
     "Folder" : "Saint"
   },
+  { "Name" : "國動",
+    "URL":"https://www.kingkong.com.tw/2132991",
+    "Game" : "實況主",
+    "Folder" : "GoDong"
+  },
   { "Name" : "陳平偉",
     "URL":"",
     "Game" : "富堡機車行",
