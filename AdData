@@ -1,6 +1,10 @@
 {
-  "AppID_Android": "ca-app-pub-7001885429515216~2167648281",
-  "AdUnitID_Android": "ca-app-pub-7001885429515216/3290401536",
-  "AppID_IOS": "",
-  "AdUnitID_IOS": ""
+  "Android_AppID": "ca-app-pub-5015410634452912~4376734608",
+  "Android_PageID": "ca-app-pub-5015410634452912/8518966070",
+  "Android_BannerID": "ca-app-pub-5015410634452912/2145129414",
+  "Android_RewardID": "ca-app-pub-5015410634452912/2872081240",
+  "IOS_AppID": "",
+  "IOS_PageID": "",
+  "IOS_BannerID": "",
+  "IOS_RewardID": ""
 }
